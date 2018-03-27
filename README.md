@@ -1,2 +1,4 @@
 # iframe-resize
-Javascript code that will resize iframe window proportionally
+A Javascript code that will resize iframe window proportionally.
+
+
