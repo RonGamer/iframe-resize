@@ -8,7 +8,7 @@ It was first implemented in websites like <a href="http://www.casin.com/">Casin.
 ## Usage
 ```
 <iframe id="iframe_game" src="{Add link to iframe here}" width="770" height="500" frameborder="0"></iframe>        
-<script src="/js/iframe-setting.js"></script>
+<script src="iframe-setting.js"></script>
 
 ```
 
